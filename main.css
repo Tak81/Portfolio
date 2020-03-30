@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: #FFFFFF;
+    color: #9DB5B2;
     background-color: #3B413C;
     font-size: large;
     font-family: sans-serif;
@@ -25,5 +25,9 @@ body {
   footer {
     border-top: 1px solid #DAF0EE;
     height: 10vh;
+  }
+
+  h1,h2,h3 {
+    color:#DAF0EE
   }
 
