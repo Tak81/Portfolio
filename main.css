@@ -2,8 +2,8 @@
 body {
     margin: 0;
     padding: 0;
-    color: #3B413C;
-    background-color: #DAF0EE;
+    color: #9DB5B2;
+    background-color: #3B413C;
     font-size: large;
     font-family: sans-serif;
     display: flex;
@@ -18,12 +18,12 @@ body {
   }
 
   header {
-    border-bottom: 1px solid #3B413C;
+    border-bottom: 1px solid #DAF0EE;
     height: 10vh;
   }
 
   footer {
-    border-top: 1px solid #3B413C;
+    border-top: 1px solid #DAF0EE;
     height: 10vh;
   }
 
