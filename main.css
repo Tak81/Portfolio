@@ -36,7 +36,11 @@ body, h1, h2, h3 {
     color:#FFFFFF;
   }
 
-  h1,h2 {
+  h2 {
     color:#DAF0EE;
   }
 
+  h1 {
+  color: #DAF0EE;
+  text-align: center;
+  }
