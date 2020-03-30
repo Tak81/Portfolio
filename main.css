@@ -41,7 +41,7 @@ body, h1, h2, h3 {
   }
 
   h1 {
-  color: #FFFFFF;
+  color: #FFFFFF opacity 0;
   text-align: center;
   font-size: 150%;
   }
