@@ -22,14 +22,14 @@ body, h1, h2, h3 {
     border-bottom: 1px solid #94D1BE;
     height: 10vh;
     box-sizing: border-box;
-    background-color: #94D1BE;
+    background-color: #94D1BE; opacity: 0.4;
   }
 
   footer {
     border-top: 1px solid #94D1BE;
     height: 10vh;
     box-sizing: border-box;
-    background-color: #94D1BE;
+    background-color: #94D1BE; opacity: 0.4;
   }
 
   h3 {
