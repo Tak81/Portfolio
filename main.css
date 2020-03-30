@@ -41,11 +41,7 @@ body, h1, h2, h3 {
   }
 
   h1 {
-  color: #DAF0EE;
+  color: #FFFFFF;
   text-align: center;
-  }
-
-  title {
-    font-size: large;
-    color: #FFFFFF
+  font-size: large;
   }
