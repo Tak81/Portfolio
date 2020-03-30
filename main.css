@@ -38,3 +38,6 @@ body, h1, h2, h3 {
     color:#DAF0EE;
   }
 
+  a {
+    border-radius: 1px solid #FFFFFF;
+  }
