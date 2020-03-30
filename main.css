@@ -18,12 +18,12 @@ body {
   }
 
   header {
-    border-bottom: 1px solid #DAF0EE;
+    border-bottom: 1px solid #94D1BE;
     height: 10vh;
   }
 
   footer {
-    border-top: 1px solid #DAF0EE;
+    border-top: 1px solid #94D1BE;
     height: 10vh;
   }
 
@@ -31,10 +31,7 @@ body {
     color:#FFFFFF;
   }
 
-  h2 {
+  h1,h2 {
     color:#DAF0EE;
   }
 
-  h1 {
-    color:#94D1BE
-  }
