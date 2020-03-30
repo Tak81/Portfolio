@@ -1,5 +1,5 @@
 
-body {
+body, h1, h2, h3 {
     margin: 0;
     padding: 0;
     color: #9DB5B2;
@@ -15,16 +15,19 @@ body {
     flex-grow: 1;
     height: 80vh;
     overflow: auto;
+    box-sizing: border-box;
   }
 
   header {
     border-bottom: 1px solid #94D1BE;
     height: 10vh;
+    box-sizing: border-box;
   }
 
   footer {
     border-top: 1px solid #94D1BE;
     height: 10vh;
+    box-sizing: border-box;
   }
 
   h3 {
