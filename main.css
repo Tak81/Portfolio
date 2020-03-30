@@ -27,7 +27,11 @@ body {
     height: 10vh;
   }
 
-  h1,h2,h3 {
+  h3 {
     color:#DAF0EE
+  }
+
+  h2 {
+    color: #FFFFFF
   }
 
