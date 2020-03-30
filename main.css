@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    color: #DAF0EE;
+    color: #9DB5B2;
     background-color: #3B413C;
     font-size: large;
     font-family: sans-serif;
@@ -31,7 +31,10 @@ body {
     color:#FFFFFF;
   }
 
-  h1,h2 {
+  h2 {
     color: #94D1BE;
   }
 
+  h1 {
+    color:#DAF0EE
+  }
