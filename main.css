@@ -44,3 +44,8 @@ body, h1, h2, h3 {
   color: #DAF0EE;
   text-align: center;
   }
+
+  title {
+    font-size: large;
+    color: #FFFFFF
+  }
