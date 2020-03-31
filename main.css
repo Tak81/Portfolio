@@ -30,6 +30,7 @@ body, h1, h2, h3 {
     height: 10vh;
     box-sizing: border-box;
     background-color: #94D1BE; opacity: 0.4;
+    text-align: center;
   }
 
   h3 {
@@ -41,7 +42,7 @@ body, h1, h2, h3 {
   }
 
   h1 {
-  color: #FFFFFF opacity 0;
+  color: #FFFFFF;
   text-align: center;
   font-size: 150%;
   }
