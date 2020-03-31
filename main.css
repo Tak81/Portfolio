@@ -1,7 +1,8 @@
 
 body, h1, h2, h3 {
     margin: 0;
-    padding: 0;
+    padding-left: 20px;
+    padding-right: 20px;
     color: #9DB5B2;
     background-color: #3B413C;
     font-size: large;
@@ -37,7 +38,6 @@ body, h1, h2, h3 {
     color:#FFFFFF;
     text-align: center;
     font-size: 150%;
-    text-decoration: underline;
   }
 
   h2 {
