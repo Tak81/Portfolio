@@ -55,8 +55,8 @@ body {
 
   .container {
    background-color: #D7D6D6;
-   border: 1px solid #36413E;
-   border-style: double;
+   border: 1px double #36413E;
+   
   }
 
   
