@@ -53,6 +53,8 @@ body, h1, h2, h3 {
   font-size: 150%;
   }
 
-  #intro {
-    border-radius: 1px solid #000000;
+  .intro {
+   background-color: #FFFFFF;
   }
+
+  
