@@ -3,8 +3,8 @@ body, h1, h2, h3 {
     margin: 0;
     padding-left: 10px;
     padding-right: 10px;
-    color: #8D8D92;
-    background-color: #36413E;
+    color: #36413E;
+    background-color: #8D8D92;
     font-size: large;
     font-family: sans-serif;
     display: flex;
