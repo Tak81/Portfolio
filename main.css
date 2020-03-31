@@ -3,8 +3,8 @@ body, h1, h2, h3 {
     margin: 0;
     padding-left: 10px;
     padding-right: 10px;
-    color: #9DB5B2;
-    background-color: #3B413C;
+    color: #8D8D92;
+    background-color: #36413E;
     font-size: large;
     font-family: sans-serif;
     display: flex;
@@ -20,17 +20,17 @@ body, h1, h2, h3 {
   }
 
   header {
-    border-bottom: 1px solid #94D1BE;
+    border-bottom: 1px solid #BEB2C8;
     height: 10vh;
     box-sizing: border-box;
     background-color: #94D1BE; opacity: 0.4;
   }
 
   footer {
-    border-top: 1px solid #94D1BE;
+    border-top: 1px solid #BEB2C8;
     height: 10vh;
     box-sizing: border-box;
-    background-color: #94D1BE; opacity: 0.4;
+    background-color: #BEB2C8; opacity: 0.4;
     text-align: center;
   }
 
