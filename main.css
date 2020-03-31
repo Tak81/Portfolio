@@ -23,14 +23,14 @@ body, h1, h2, h3 {
     border-bottom: 1px solid #BEB2C8;
     height: 10vh;
     box-sizing: border-box;
-    background-color: #94D1BE; opacity: 0.4;
+    background-color: #94D1BE; 
   }
 
   footer {
     border-top: 1px solid #BEB2C8;
     height: 10vh;
     box-sizing: border-box;
-    background-color: #BEB2C8; opacity: 0.4;
+    background-color: #BEB2C8; 
     text-align: center;
   }
 
