@@ -54,9 +54,9 @@ body, h1, h2, h3 {
   font-size: 150%;
   }
 
-  .intro {
+  .container {
    background-color: #D7D6D6;
-   border: 5px solid #000000;
+   border: 2px solid #000000;
   }
 
   
